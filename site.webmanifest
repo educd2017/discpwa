@@ -1,0 +1,23 @@
+   {
+    "name": "ديسكفريات وثائقي",
+    "short_name": "ديسكفريات وثائقي",
+    "icons": [
+        {
+            "src": "https://h.top4top.io/p_20584r91r4.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://i.top4top.io/p_2058z6n9a5.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://discoveryat.aliraafat.com/"
+}
